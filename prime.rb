@@ -1,6 +1,6 @@
 def prime?(n)
 
-    if 
+    if number.integer
       
     if n <= 1
         return false
