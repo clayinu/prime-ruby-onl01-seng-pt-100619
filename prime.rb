@@ -1,5 +1,7 @@
 def prime?(n)
 
+    if 
+      
     if n <= 1
         return false
     elsif n == 2
