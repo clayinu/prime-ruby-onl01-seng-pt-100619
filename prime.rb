@@ -1,7 +1,7 @@
 def prime?(n)
 
-    if number.integer
-      
+    if n.integer?
+      return 
     if n <= 1
         return false
     elsif n == 2
