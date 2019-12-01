@@ -6,7 +6,7 @@ def prime?(n)
         return false
     elsif n == 2
         return true
-    elsif (2..n-1).each {|i| return false if }
+    elsif (2..n-1).each {|i| return false if n % i = 0}
       return false
     else
       return true
