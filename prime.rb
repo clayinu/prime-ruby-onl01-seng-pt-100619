@@ -1,8 +1,8 @@
 def prime?(n)
 
-    if !n.integer?
-      return false
-    if n <= 1
+return false !n.integer?
+
+retrun false if n <= 1
         return false
     elsif n == 2
         return true
